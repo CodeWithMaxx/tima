@@ -1,0 +1,2 @@
+D:/VS-CODE X FLUTTER/tima/android/app/.cxx/RelWithDebInfo/574a3g1s/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/VS-CODE X FLUTTER/tima/android/app/.cxx/RelWithDebInfo/574a3g1s/armeabi-v7a/CMakeFiles/rebuild_cache.dir
